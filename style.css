@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+   
+}
+button {
+    padding : 10px 10px;
+    margin-right : 5px;
+    color : white;
+    border : none;
+    background-color : #895BE6;
+    text-transform: uppercase;
+    
+}
